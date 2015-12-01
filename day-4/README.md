@@ -11,6 +11,7 @@ Covered elements:
 - `<body>`
 - `<p>`
 - `<img>` (only with images hosted by other sites, using "copy imag url" feature in Chrome)
+If feels too much you can ommit the the usual HTML boilerplate (doctype, html, head, body) and only add the content elements.
 
 Additional things:
 - embeding a youtube video
