@@ -26,7 +26,7 @@ The aim is, create the same setup as it is in the simple practice environment [h
 - Try the same simple functions that we used in the practice environment, example: `fillRect`
 
 ## Functions
-If there is time that is a great point to practice functions. Showing the input arguments with a simple example:
+If there is time that is a great point to practice functions. Showing the input arguments with a simple examples:
 ```js
 function greet(name) {
   alert('Hi ' + name + '!');
@@ -35,6 +35,22 @@ function greet(name) {
 
 greet('Ann');
 greet('Steve');
+```
+
+```js
+function print(number) {
+  if (number === 1) {
+    alert('one');
+  } else if (number === 2) {
+    alert('two');  
+  } else {
+    alert('many');
+  }
+}
+  
+print(1);
+print(2);
+print(12);
 ```
 
 ## Homework
