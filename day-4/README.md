@@ -10,11 +10,11 @@ Covered elements:
 - `<head>`
 - `<body>`
 - `<p>`
-- `<img>` (only with images hosted by other sites, using "copy imag url" feature in Chrome)
-If feels too much you can ommit the the usual HTML boilerplate (doctype, html, head, body) and only add the content elements.
+- `<img>` (only with images hosted by other sites, using "copy image url" feature in Chrome)
+If feels too much you can omit the the usual HTML boilerplate (doctype, html, head, body) and only add the content elements.
 
 Additional things:
-- embeding a youtube video
+- embedding a youtube video
 - `style="color: red"`
 
 ## Canvas example
@@ -23,7 +23,7 @@ The aim is, create the same setup as it is in the simple practice environment [h
 - Add a JS file add link it with a `<script>` element.
 - Try the JS file with a simple `alert('something')` example.
 - Show them, that they are able to create an annoying site with calling `alert` several times in a `for`-loop, also they can send it to somebody as a VIRUS! :)
-- Add the boilerplate code for geting the drawing context for the `<canvas>`. (Don't forget to add an id for it)
+- Add the boilerplate code for getting the drawing context for the `<canvas>`. (Don't forget to add an id for it)
 - Try the same simple functions that we used in the practice environment, example: `fillRect`
 
 ## Functions
