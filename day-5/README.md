@@ -8,7 +8,7 @@ function drawBall(x, y) {
   c.fillRect(x, y, 20, 20);
 }
 ```
-- Create a `draw` function that draws the ball based on two wariables `x` and `y`
+- Create a `draw` function that draws the ball based on two variables `x` and `y`
 ```js
 var x = 50;
 var y = 40;
@@ -19,7 +19,7 @@ function draw() {
 
 draw()
 ```
-- Try to move the ball around by changeing the variables in the `draw` function
+- Try to move the ball around by changing the variables in the `draw` function
 - Explain how the movies are working what are the frames
 - Ask: What would we need theoretically to move the Ball?
 - Ask: How many times we would need to call the draw function in a second?
